@@ -3,7 +3,7 @@
 
   "name": "Simple AJAX Chrome Extension",
   "description": "All this extension is built to do is execute a simple AJAX call that returns a very simple JSON response and then display it in the simplest form for training purposes. No fuss, just structure.",
-  "version": "1.1",
+  "version": "1.2",
 
   "icons": {
     "16"  : "img/icon.png",
